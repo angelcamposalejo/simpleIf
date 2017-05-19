@@ -1,6 +1,6 @@
 #pragma once  //______________________________________ ejerciciosIf.h  
 #include "Resource.h"
-class ejerciciosIf: public Win::Dialog
+class ejerciciosIf : public Win::Dialog
 {
 public:
 	ejerciciosIf()
